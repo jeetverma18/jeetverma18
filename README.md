@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeetverma18
 - 👀 I’m interested in girls
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on idk know
+- 💞️ I’m looking to collaborate on idk 
 - 📫 How to reach me jeetverma1809@gmail.com
 
 <!---
